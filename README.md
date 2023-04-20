@@ -6,10 +6,15 @@
 ## Diccionario de datos:
 
 **ID**
+
 **Nacionalidad/Región**
+
 **Edad (años cumplidos). Favor responder en números, evitar responder en letras**
+
 **¿Con qué género te identificas?**
+
 **Estado Procesal**
+
 **¿Conoces el tiempo de tu condena?**
 **Estado Civil**
 **Hijos**
