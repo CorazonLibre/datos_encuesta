@@ -6,7 +6,7 @@
 ## Diccionario de datos:
 ### Preguntas de la encuesta y tipos de datos de las mismas 
 
-| **Preguntas |
+| **Preguntas** |
 | --- |
 | ID |
 | Nacionalidad/Región |
