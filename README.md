@@ -6,8 +6,8 @@
 ## Diccionario de datos:
 ### Preguntas de la encuesta y tipos de datos de las mismas 
 
-| **Preguntas** |
-| --- |
+| **Preguntas** | **Tipo de dato** |
+| --- | --- |
 | ID |
 | Nacionalidad/Región |
 | Edad (años cumplidos). Favor responder en números, evitar responder en letras |
