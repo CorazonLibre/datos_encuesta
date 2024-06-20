@@ -1,6 +1,5 @@
-# Datos de la Encuesta
-### Aqui se podria agregar una descripcion de la encuesta
-
+# Datos de Encuestas de Corazón Libre
+### Estamos trabajando para disponibilizar toda la información de las Encuestas realizadas por el área de investigación del Proyecto Social Corazón Libre.
 
 
 ## Diccionario de datos:
@@ -103,3 +102,5 @@
  
 
 ![image](https://user-images.githubusercontent.com/130619220/232844333-fc6913d4-6c55-473e-8e6c-876f9f3c9bcd.png)
+
+**Coordinación General 2024 🤍**
